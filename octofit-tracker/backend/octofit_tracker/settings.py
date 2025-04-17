@@ -90,6 +90,10 @@ DATABASES = {
 }
 
 
+# Codespace Django REST API endpoint suffix
+CODESPACE_API_SUFFIX = "https://improved-dollop-wrrr9pp6ggxq39g67-8000.app.github.dev"
+
+
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
 
